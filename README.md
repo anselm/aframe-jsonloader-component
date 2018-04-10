@@ -11,7 +11,7 @@ For [A-Frame](https://aframe.io).
 
 Here is a basic example of my kitchen described as a-frame components loaded from json:
 
-<a href="https://anselm.github.io/aframe-jsonloader-component/examples/basic/index.html"> <img alt="my kitchen layout in aframe" target="_blank" src="https://github.com/anselm/aterrain/blob/master/examples/basic/data/selfpicture.png?raw=true" width="660"></a>
+<a href="https://anselm.github.io/aframe-jsonloader-component/examples/basic/index.html"> <img alt="my kitchen layout in aframe" target="_blank" src="https://anselm.github.io/aframe-jsonloader-component/examples/basic/data/selfpicture.png" width="660"></a>
 
 
 ### API
