@@ -8,7 +8,7 @@
     "dev": "budo index.js:dist/aframe-jsonloader-component.min.js --port 7000 --live --open",
     "dist": "npm run rollup && uglifyjs dist/aframe-jsonloader-component.js > dist/aframe-jsonloader-component.min.js",
     "lint": "semistandard -v | snazzy",
-    "prepublish": "npm run dist",
+    "prepare": "npm run dist",
     "ghpages": "ghpages",
     "rollup": "rollup index.js --output.format umd --name 'aframe-jsonloader-component' --output.file dist/aframe-jsonloader-component.js",
     "start": "npm run dev",
